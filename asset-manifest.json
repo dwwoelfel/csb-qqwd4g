@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://dwwoelfel.github.io/csb-qqwd4g/static/js/main.7e57dd04.chunk.js",
+    "main.js.map": "https://dwwoelfel.github.io/csb-qqwd4g/static/js/main.7e57dd04.chunk.js.map",
+    "runtime-main.js": "https://dwwoelfel.github.io/csb-qqwd4g/static/js/runtime-main.ff3e9a2b.js",
+    "runtime-main.js.map": "https://dwwoelfel.github.io/csb-qqwd4g/static/js/runtime-main.ff3e9a2b.js.map",
+    "static/js/2.5362e3dc.chunk.js": "https://dwwoelfel.github.io/csb-qqwd4g/static/js/2.5362e3dc.chunk.js",
+    "static/js/2.5362e3dc.chunk.js.map": "https://dwwoelfel.github.io/csb-qqwd4g/static/js/2.5362e3dc.chunk.js.map",
+    "index.html": "https://dwwoelfel.github.io/csb-qqwd4g/index.html",
+    "static/js/2.5362e3dc.chunk.js.LICENSE.txt": "https://dwwoelfel.github.io/csb-qqwd4g/static/js/2.5362e3dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff3e9a2b.js",
+    "static/js/2.5362e3dc.chunk.js",
+    "static/js/main.7e57dd04.chunk.js"
+  ]
+}
